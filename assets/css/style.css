@@ -19,10 +19,11 @@ body{
 .jumb{
     color: white;
     text-shadow: 0px 0px 5px rgba(0, 0, 0, 0.466);
-    background-image: url(../img/obbg.png);
+    background-image: url(../img/obbg1.png);
     background-blend-mode: darken;
-    background-color: rgba(3, 5, 3, 0.473);
+    background-color: rgba(33, 224, 33, 0.7);
     background-size: cover;
+    background-position: center;
     padding-top: 40px;
     padding-bottom: 40px;
     padding: 80px 50px;
